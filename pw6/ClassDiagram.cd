@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="pw6.Class1">
+    <Position X="5.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAgAAAAAAIAAAAAAAAAAIAAAAAIAACAAAAAAI=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pw6.convert">
+    <Position X="5.25" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAgAAAAAggABAQAAAAAAAAAAAAAAEAACAAAgAAA=</HashCode>
+      <FileName>convert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="pw6.Program">
+    <Position X="5.25" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
