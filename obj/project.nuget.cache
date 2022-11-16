@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "meDqvWjJuQ4285sY0tPqGgSZCC/3/fVDfiBQGEF3rvUizGDtMdv9VeFcnjcGsin5eES1vKX/pNQVXZVVYiSWdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79663\\source\\repos\\DayList\\pw6\\pw6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79663\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
